@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ayşe Atmaca (@ayseatmaca)
 
-🎓 I'm a passionate double major student in **Aerospace Engineering** (2nd year) and **Software Engineering** (1st year) at university.  
+🎓 I'm a passionate double major student in **Aerospace Engineering** (3rd year) and **Software Engineering** (2nd year) at university.  
 🌟 GPA: Aerospace - 3.38 | Software - 3.18
 
 ---
