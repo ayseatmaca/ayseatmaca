@@ -7,18 +7,20 @@
 
 ## 👀 I’m interested in:
 - Aircraft materials and aerospace systems  
-- Python-based desktop applications (especially with PyQt5 & SQLite)  
-- Engineering simulations (Ansys Fluent, SolidWorks, MATLAB)  
+- **Artificial intelligence and data science applications**  
+- Python-based and AI-powered applications (SQLite, Scikit-learn, Pandas)  
+- Engineering simulations (**Ansys Fluent – flow analysis, SolidWorks – CAD/3D modeling, MATLAB**)  
 - Automation systems and real-world engineering projects  
 
 ---
 
 ## 🌱 I’m currently learning:
-- **GUI development** with Qt Designer and PyQt5  
-- **Database integration** using SQLite  
+- **Artificial Intelligence & Data Science** (bootcamps, ML basics, Python libraries)  
+- **Data Structures and Algorithms** (introductory course)  
+- **Database integration** with SQLite  
 - **Finite Difference and Finite Element Methods** in MATLAB  
-- **Technical drawing & 3D modeling** with SolidWorks  
-- **Multiphysics simulation** with Ansys Fluent  
+- **3D modeling & technical drawing** with SolidWorks  
+- **Flow and multiphysics simulation** with Ansys Fluent  
 
 ---
 
