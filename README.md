@@ -8,7 +8,7 @@
   <p align="center">
     <strong>🚀 Roket bilimiyle algoritma sihrini birleştiren mühendis adayı! 🚀</strong>
     <br />
-    [cite_start]Havacılık ve Uzay Mühendisliği ile Yazılım Mühendisliği arasında köprüler kuruyorum. [cite: 7, 8]
+    Havacılık ve Uzay Mühendisliği ile Yazılım Mühendisliği arasında köprüler kuruyorum.
     <br />
     <a href="https://www.linkedin.com/in/ayşe-atmaca-26913328b"><strong>LinkedIn'de Bağlanalım</strong></a>
   </p>
@@ -18,7 +18,7 @@
 
 ### 🎯 Benim Hakkımda
 
-[cite_start]Ben, Havacılık ve Uzay Mühendisliği (3. Sınıf, 3.38 GPA) [cite: 13, 14, 15] [cite_start]öğrencisiyim ve aynı zamanda Yazılım Mühendisliği (2. Sınıf, 2.96 GPA) [cite: 16, 17] [cite_start]alanında çift anadal yapıyorum. [cite: 7] [cite_start]Amacım, bu iki disiplini birleştirerek yenilikçi çözümler üretmek. [cite: 8] [cite_start]Şu sıralar görüntü işleme ve yapay zeka temelli bir mobil uygulama projesi üzerinde çalışarak bu alandaki yeteneklerimi geliştiriyorum. [cite: 9]
+Ben, Havacılık ve Uzay Mühendisliği (3. Sınıf, 3.38 GPA) öğrencisiyim ve aynı zamanda Yazılım Mühendisliği (2. Sınıf, 2.96 GPA) alanında çift anadal yapıyorum. Amacım, bu iki disiplini birleştirerek yenilikçi çözümler üretmek. Şu sıralar görüntü işleme ve yapay zeka temelli bir mobil uygulama projesi üzerinde çalışarak bu alandaki yeteneklerimi geliştiriyorum.
 
 ---
 
@@ -44,6 +44,7 @@
   <strong>Mühendislik & Uygulama Geliştirme:</strong><br/>
   <a href="#"><img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-DA1F0F?style=for-the-badge&logo=solidworks&logoColor=white"></a>
   <a href="#"><img alt="Ansys" src="https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=black"></a>
+  <a href="#"><img alt="XFLR5" src="https://img.shields.io/badge/XFLR5-00599C?style=for-the-badge"></a>
   <a href="#"><img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
 </p>
 
@@ -51,10 +52,10 @@
 
 ### 🚀 Öne Çıkan Projelerim
 
-* [cite_start]**Restaurant Otomasyon Sistemi:** Python ve Qt Designer kullanarak sıfırdan geliştirdiğim, SQLite veritabanı ile çalışan bir masaüstü uygulaması. [cite: 59, 60, 61, 62, 63]
-* [cite_start]**İHA Tasarımı & Analizi:** Doğal afet sonrası müdahale için tasarlanan bir İHA projesinde Ansys Fluent ile aerodinamik ve yapısal analizler gerçekleştirdim. [cite: 41, 42, 43]
-* [cite_start]**Veri Bilimi Bitirme Projesi:** Sınıflandırma (Decision Tree), kümeleme (K-Means) ve çeşitli veri görselleştirme tekniklerini uyguladığım kapsamlı bir analiz projesi. [cite: 69, 70, 71]
-* [cite_start]**Duct Propeller Tasarımı (Staj Projesi):** SolidWorks ile 3D modelleme ve ANSYS Fluent ile CFD analizleri yaparak verimliliği yüksek bir pervane sistemi geliştirdim. [cite: 21, 44, 46]
+* **Restaurant Otomasyon Sistemi:** Python ve Qt Designer kullanarak sıfırdan geliştirdiğim, SQLite veritabanı ile çalışan bir masaüstü uygulaması.
+* **İHA Tasarımı & Analizi:** Doğal afet sonrası müdahale için tasarlanan bir İHA projesinde Ansys Fluent ile aerodinamik ve yapısal analizler gerçekleştirdim.
+* **Veri Bilimi Bitirme Projesi:** Sınıflandırma (Decision Tree), kümeleme (K-Means) ve çeşitli veri görselleştirme tekniklerini uyguladığım kapsamlı bir analiz projesi.
+* **Duct Propeller Tasarımı (Staj Projesi):** SolidWorks ile 3D modelleme ve ANSYS Fluent ile CFD analizleri yaparak verimliliği yüksek bir pervane sistemi geliştirdim.
 
 ---
 
@@ -69,8 +70,8 @@
 
 ### 💞️ Birlikte Çalışalım!
 
-Akademik araştırmalar, **Yapay Zeka + Havacılık** temalı eğlenceli projeler veya mühendislikle kodu birleştiren herhangi bir fikir için her zaman açığım. [cite_start]Özellikle **TÜBİTAK 2209** gibi araştırma projelerinde yer almaya istekliyim. [cite: 56] Bir fincan kahve eşliğinde beyin fırtınası yapmaya ne dersin? ☕
+Akademik araştırmalar, **Yapay Zeka + Havacılık** temalı eğlenceli projeler veya mühendislikle kodu birleştiren herhangi bir fikir için her zaman açığım. Özellikle **TÜBİTAK 2209** gibi araştırma projelerinde yer almaya istekliyim. Bir fincan kahve eşliğinde beyin fırtınası yapmaya ne dersin? ☕
 
-[cite_start]📫 Bana **atmacaayse120@gmail.com** [cite: 5] adresinden veya **LinkedIn**'den ulaşabilirsin.
+📫 Bana **atmacaayse120@gmail.com** adresinden veya **LinkedIn**'den ulaşabilirsin.
 
-> [cite_start]**⚡ Eğlenceli Gerçek:** Aynı gün içinde hem bir Airbus A380'in lastikleri için malzeme seçimi yapıp [cite: 50] [cite_start]hem de restoran otomasyon sistemin için kullanıcı arayüzü tasarlayabilirim! [cite: 59, 61] 😄✈️🍽️
+> **⚡ Eğlenceli Gerçek:**  Benim için 'analiz', verinin anlattığı gizli hikayeyi ortaya çıkarmaktır. Bazen bu hikayeyi Pandas ile bir veri setindeki trendlerde bulurum , bazen de Ansys ile bir İHA kanadının en kritik gerilme noktasında keşfederim. İster sanal olsun, ister fiziksel; her verinin bir sırrı vardır! 📊✈️✈️🍽️
