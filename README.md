@@ -18,7 +18,7 @@
 
 ### 🎯 Benim Hakkımda
 
-Ben, Havacılık ve Uzay Mühendisliği (3. Sınıf, 3.40 GPA) öğrencisiyim ve aynı zamanda Yazılım Mühendisliği (2. Sınıf, 3.07 GPA) alanında çift anadal yapıyorum. Amacım, bu iki disiplini birleştirerek yenilikçi çözümler üretmek. Şu sıralar görüntü işleme ve yapay zeka temelli bir mobil uygulama projesi üzerinde çalışarak bu alandaki yeteneklerimi geliştiriyorum.
+Ben, Havacılık ve Uzay Mühendisliği (3. Sınıf, 3.40 GPA) öğrencisiyim ve aynı zamanda Yazılım Mühendisliği (2. Sınıf, 3.07 GPA) alanında çift anadal yapıyorum. Amacım, bu iki disiplini birleştirerek yenilikçi çözümler üretmek. Şu sıralar görüntü işleme ve yapay zeka temelli bir mobil uygulama projesi üzerinde çalışarak bu alandaki yeteneklerimi geliştiriyorum. Ayrıca Bilgisayarlı görü üzerine çalışmalar yapıyorum.
 
 ---
 
@@ -70,7 +70,7 @@ Ben, Havacılık ve Uzay Mühendisliği (3. Sınıf, 3.40 GPA) öğrencisiyim ve
 
 ### 💞️ Birlikte Çalışalım!
 
-Akademik araştırmalar, **Yapay Zeka + Havacılık** temalı eğlenceli projeler veya mühendislikle kodu birleştiren herhangi bir fikir için her zaman açığım. Özellikle **TÜBİTAK 2209** gibi araştırma projelerinde yer almaya istekliyim. Bir fincan kahve eşliğinde beyin fırtınası yapmaya ne dersin? ☕
+Akademik araştırmalar, **Yapay Zeka + Havacılık** temalı eğlenceli projeler veya mühendislikle kodu birleştiren herhangi bir fikir için her zaman açığım. Bir fincan kahve eşliğinde beyin fırtınası yapmaya ne dersin? ☕
 
 📫 Bana **atmacaayse120@gmail.com** adresinden veya **LinkedIn**'den ulaşabilirsin.
 
