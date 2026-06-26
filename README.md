@@ -21,9 +21,9 @@
 
 ## 👩‍🚀 Hakkımda
 
-Samsun Üniversitesi'nde **Havacılık & Uzay Mühendisliği** (3. sınıf) ve **Yazılım Mühendisliği** çift anadal öğrencisiyim. Aerodinamik testlerin yapay zekâ ile otomasyonu, otonom havacılık sistemleri ve uzay araç yörünge yönetimi üzerine çalışmalar yürütüyorum.
+Samsun Üniversitesi'nde **Havacılık & Uzay Mühendisliği** (4. sınıf) ve **Yazılım Mühendisliği** çift anadal öğrencisiyim. Aerodinamik testlerin yapay zekâ ile otomasyonu, otonom havacılık sistemleri ve uzay araç yörünge yönetimi üzerine çalışmalar yürütüyorum.
 
-- 🔭 **Devam Eden:** Kanat Profili Titreşim Analiz Sistemi · Uçak Motoru RUL Tahmini · TÜBİTAK 2209-A
+- 🔭 **Yakın Zamanda Üstüne Çalıştıklarım -** Kanat Profili Titreşim Analiz Sistemi · Uçak Motoru RUL Tahmini 
 - 🛰️ TUA Astro Hackathon'da otonom yörünge yönetimi geliştirdim — **UHUK-2026'da** kabul aldı
 - 🤖 YOLOv11 + SAM ile rüzgar tüneli testlerini otomatikleştirdim
 - 🏆 TEI Havacılık Motorları Okulu · SSB Savunma Sanayii 101 mezunu
@@ -136,7 +136,7 @@ Samsun Üniversitesi'nde **Havacılık & Uzay Mühendisliği** (3. sınıf) ve *
 |-------|---------|-------|-----|
 | Samsun Üniversitesi | Havacılık & Uzay Mühendisliği | 2022 – Devam | 3.40 |
 | Samsun Üniversitesi | Yazılım Mühendisliği (Çift Anadal) | 2024 – Devam | 3.07 |
-| YÖK / ODTÜ / İTÜ | Veri Analizi – Yapay Zeka Modülü | 2025 – Devam | — |
+| YÖK / ODTÜ / İTÜ | Veri Analizi – Yapay Zeka Modülü | 2025 – 2026 | — |
 | TEI | Havacılık Motorları Okulu | Oca 2026 – May 2026 | — |
 | SSB | Savunma Sanayii 101 | Eki 2025 – Oca 2026 | — |
 
