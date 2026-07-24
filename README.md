@@ -134,8 +134,8 @@ Samsun Üniversitesi'nde **Havacılık & Uzay Mühendisliği** (4. sınıf) ve *
 
 | Kurum | Program | Dönem | GPA |
 |-------|---------|-------|-----|
-| Samsun Üniversitesi | Havacılık & Uzay Mühendisliği | 2022 – Devam | 3.40 |
-| Samsun Üniversitesi | Yazılım Mühendisliği (Çift Anadal) | 2024 – Devam | 3.07 |
+| Samsun Üniversitesi | Havacılık & Uzay Mühendisliği | 2022 – Devam | 3.45 |
+| Samsun Üniversitesi | Yazılım Mühendisliği (Çift Anadal) | 2024 – Devam | 3.09 |
 | YÖK / ODTÜ / İTÜ | Veri Analizi – Yapay Zeka Modülü | 2025 – 2026 | — |
 | TEI | Havacılık Motorları Okulu | Oca 2026 – May 2026 | — |
 | SSB | Savunma Sanayii 101 | Eki 2025 – Oca 2026 | — |
